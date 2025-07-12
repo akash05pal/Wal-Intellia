@@ -1,0 +1,1001 @@
+shipment_id,item_id,carrier,delayed,delay_reason
+L0001,1003,CarrierA,no,
+L0002,1001,CarrierB,yes,Mechanical
+L0003,1010,CarrierA,no,
+L0004,1001,CarrierY,yes,Traffic
+L0005,1013,CarrierX,yes,
+L0006,1014,CarrierB,yes,Traffic
+L0007,1006,CarrierY,no,
+L0008,1002,CarrierZ,no,
+L0009,1009,CarrierZ,no,
+L0010,1010,CarrierA,yes,Traffic
+L0011,1006,CarrierA,yes,
+L0012,1011,CarrierZ,yes,Warehouse delay
+L0013,1003,CarrierZ,yes,Customs
+L0014,1005,CarrierX,yes,Traffic
+L0015,1012,CarrierY,no,
+L0016,1007,CarrierB,yes,Driver shortage
+L0017,1007,CarrierA,yes,Mechanical
+L0018,1011,CarrierB,yes,Driver shortage
+L0019,1003,CarrierA,no,
+L0020,1003,CarrierY,no,
+L0021,1014,CarrierA,yes,
+L0022,1006,CarrierX,no,
+L0023,1003,CarrierY,no,
+L0024,1009,CarrierB,no,
+L0025,1007,CarrierA,no,
+L0026,1012,CarrierA,no,
+L0027,1003,CarrierX,yes,
+L0028,1013,CarrierY,no,
+L0029,1001,CarrierZ,yes,Driver shortage
+L0030,1005,CarrierY,no,
+L0031,1010,CarrierA,yes,Driver shortage
+L0032,1002,CarrierZ,no,
+L0033,1009,CarrierX,no,
+L0034,1009,CarrierY,no,
+L0035,1002,CarrierY,no,
+L0036,1014,CarrierX,no,
+L0037,1005,CarrierZ,yes,Mechanical
+L0038,1014,CarrierX,yes,Customs
+L0039,1013,CarrierB,no,
+L0040,1014,CarrierB,no,
+L0041,1003,CarrierB,yes,
+L0042,1004,CarrierY,yes,Driver shortage
+L0043,1006,CarrierB,no,
+L0044,1010,CarrierB,yes,Traffic
+L0045,1012,CarrierZ,no,
+L0046,1010,CarrierZ,yes,Customs
+L0047,1013,CarrierA,yes,Traffic
+L0048,1014,CarrierY,yes,Customs
+L0049,1003,CarrierZ,yes,
+L0050,1014,CarrierA,no,
+L0051,1003,CarrierB,no,
+L0052,1011,CarrierA,no,
+L0053,1008,CarrierX,yes,Mechanical
+L0054,1009,CarrierZ,no,
+L0055,1008,CarrierA,no,
+L0056,1010,CarrierX,yes,Warehouse delay
+L0057,1008,CarrierZ,yes,
+L0058,1009,CarrierA,yes,Mechanical
+L0059,1014,CarrierY,no,
+L0060,1005,CarrierZ,no,
+L0061,1006,CarrierB,yes,Driver shortage
+L0062,1014,CarrierA,no,
+L0063,1015,CarrierX,yes,Weather
+L0064,1011,CarrierA,yes,Weather
+L0065,1015,CarrierY,no,
+L0066,1008,CarrierX,no,
+L0067,1004,CarrierY,no,
+L0068,1003,CarrierZ,yes,Warehouse delay
+L0069,1006,CarrierZ,yes,Traffic
+L0070,1011,CarrierY,yes,Mechanical
+L0071,1011,CarrierZ,yes,Mechanical
+L0072,1011,CarrierX,yes,Weather
+L0073,1004,CarrierA,yes,Customs
+L0074,1010,CarrierY,no,
+L0075,1001,CarrierX,no,
+L0076,1014,CarrierX,no,
+L0077,1012,CarrierY,no,
+L0078,1002,CarrierY,no,
+L0079,1002,CarrierX,yes,Traffic
+L0080,1006,CarrierZ,yes,Mechanical
+L0081,1013,CarrierY,yes,Weather
+L0082,1009,CarrierB,yes,Driver shortage
+L0083,1011,CarrierY,no,
+L0084,1006,CarrierY,yes,Mechanical
+L0085,1010,CarrierA,yes,Weather
+L0086,1015,CarrierX,yes,
+L0087,1002,CarrierB,no,
+L0088,1006,CarrierA,no,
+L0089,1013,CarrierY,yes,Traffic
+L0090,1011,CarrierX,yes,Driver shortage
+L0091,1010,CarrierB,no,
+L0092,1013,CarrierX,no,
+L0093,1004,CarrierB,yes,Warehouse delay
+L0094,1007,CarrierZ,yes,
+L0095,1015,CarrierY,no,
+L0096,1007,CarrierX,yes,Mechanical
+L0097,1011,CarrierB,yes,Driver shortage
+L0098,1015,CarrierX,no,
+L0099,1015,CarrierZ,yes,Mechanical
+L0100,1014,CarrierB,no,
+L0101,1006,CarrierB,yes,
+L0102,1008,CarrierX,yes,Driver shortage
+L0103,1002,CarrierX,no,
+L0104,1004,CarrierX,yes,
+L0105,1007,CarrierB,no,
+L0106,1011,CarrierB,no,
+L0107,1007,CarrierA,yes,Warehouse delay
+L0108,1009,CarrierB,yes,Traffic
+L0109,1002,CarrierZ,yes,Driver shortage
+L0110,1015,CarrierY,yes,Driver shortage
+L0111,1006,CarrierA,yes,Traffic
+L0112,1012,CarrierA,yes,Weather
+L0113,1004,CarrierX,no,
+L0114,1002,CarrierA,yes,Traffic
+L0115,1011,CarrierY,yes,Weather
+L0116,1012,CarrierY,yes,Customs
+L0117,1008,CarrierZ,no,
+L0118,1003,CarrierZ,yes,Warehouse delay
+L0119,1013,CarrierZ,yes,
+L0120,1015,CarrierX,no,
+L0121,1013,CarrierA,no,
+L0122,1009,CarrierX,no,
+L0123,1012,CarrierB,yes,Mechanical
+L0124,1008,CarrierB,no,
+L0125,1001,CarrierA,yes,Traffic
+L0126,1003,CarrierZ,yes,Driver shortage
+L0127,1011,CarrierX,yes,Warehouse delay
+L0128,1009,CarrierX,yes,
+L0129,1014,CarrierX,yes,Weather
+L0130,1008,CarrierZ,no,
+L0131,1015,CarrierY,yes,
+L0132,1001,CarrierB,no,
+L0133,1004,CarrierZ,yes,Mechanical
+L0134,1015,CarrierZ,no,
+L0135,1014,CarrierX,no,
+L0136,1002,CarrierB,yes,Customs
+L0137,1004,CarrierB,yes,Mechanical
+L0138,1002,CarrierA,no,
+L0139,1013,CarrierZ,no,
+L0140,1002,CarrierB,no,
+L0141,1001,CarrierZ,yes,Traffic
+L0142,1010,CarrierZ,yes,Mechanical
+L0143,1006,CarrierB,no,
+L0144,1013,CarrierY,yes,Customs
+L0145,1001,CarrierA,yes,Customs
+L0146,1009,CarrierZ,yes,Traffic
+L0147,1001,CarrierA,no,
+L0148,1002,CarrierY,yes,Mechanical
+L0149,1008,CarrierX,yes,Warehouse delay
+L0150,1005,CarrierX,yes,Customs
+L0151,1015,CarrierB,no,
+L0152,1012,CarrierZ,no,
+L0153,1012,CarrierX,yes,Driver shortage
+L0154,1003,CarrierA,yes,Driver shortage
+L0155,1010,CarrierX,no,
+L0156,1011,CarrierY,yes,Traffic
+L0157,1005,CarrierZ,no,
+L0158,1012,CarrierZ,no,
+L0159,1008,CarrierZ,yes,Weather
+L0160,1004,CarrierY,yes,Customs
+L0161,1002,CarrierY,no,
+L0162,1008,CarrierZ,no,
+L0163,1002,CarrierB,no,
+L0164,1013,CarrierY,no,
+L0165,1005,CarrierA,no,
+L0166,1014,CarrierX,yes,Customs
+L0167,1013,CarrierZ,yes,Customs
+L0168,1014,CarrierZ,yes,Weather
+L0169,1012,CarrierY,no,
+L0170,1007,CarrierB,yes,Warehouse delay
+L0171,1005,CarrierZ,yes,Weather
+L0172,1007,CarrierA,yes,Weather
+L0173,1008,CarrierX,yes,Weather
+L0174,1001,CarrierX,yes,Customs
+L0175,1004,CarrierA,no,
+L0176,1011,CarrierX,no,
+L0177,1015,CarrierX,yes,Weather
+L0178,1004,CarrierA,yes,Weather
+L0179,1015,CarrierZ,yes,Weather
+L0180,1008,CarrierX,yes,Driver shortage
+L0181,1007,CarrierA,no,
+L0182,1001,CarrierA,no,
+L0183,1003,CarrierZ,yes,Customs
+L0184,1005,CarrierZ,no,
+L0185,1015,CarrierY,yes,Driver shortage
+L0186,1010,CarrierB,yes,Warehouse delay
+L0187,1005,CarrierA,no,
+L0188,1015,CarrierB,no,
+L0189,1001,CarrierX,no,
+L0190,1007,CarrierY,no,
+L0191,1004,CarrierB,yes,Warehouse delay
+L0192,1013,CarrierB,yes,Mechanical
+L0193,1013,CarrierZ,no,
+L0194,1009,CarrierA,no,
+L0195,1015,CarrierB,no,
+L0196,1007,CarrierZ,yes,Weather
+L0197,1006,CarrierB,yes,Weather
+L0198,1015,CarrierZ,yes,
+L0199,1008,CarrierB,no,
+L0200,1013,CarrierB,yes,Customs
+L0201,1002,CarrierY,yes,Traffic
+L0202,1009,CarrierX,yes,Driver shortage
+L0203,1014,CarrierA,no,
+L0204,1015,CarrierY,yes,Customs
+L0205,1010,CarrierZ,no,
+L0206,1015,CarrierB,yes,Warehouse delay
+L0207,1012,CarrierZ,yes,Driver shortage
+L0208,1004,CarrierA,no,
+L0209,1003,CarrierA,yes,Weather
+L0210,1001,CarrierY,yes,Weather
+L0211,1009,CarrierA,yes,Traffic
+L0212,1015,CarrierB,yes,
+L0213,1003,CarrierZ,yes,
+L0214,1014,CarrierZ,yes,Weather
+L0215,1003,CarrierB,yes,
+L0216,1002,CarrierB,no,
+L0217,1002,CarrierZ,no,
+L0218,1010,CarrierX,no,
+L0219,1005,CarrierZ,yes,Customs
+L0220,1012,CarrierA,no,
+L0221,1011,CarrierZ,yes,Warehouse delay
+L0222,1009,CarrierB,no,
+L0223,1004,CarrierB,yes,Mechanical
+L0224,1005,CarrierZ,yes,Customs
+L0225,1012,CarrierX,no,
+L0226,1014,CarrierB,yes,Customs
+L0227,1010,CarrierZ,yes,Warehouse delay
+L0228,1010,CarrierX,no,
+L0229,1003,CarrierZ,yes,Customs
+L0230,1006,CarrierZ,yes,Warehouse delay
+L0231,1015,CarrierX,no,
+L0232,1008,CarrierX,no,
+L0233,1004,CarrierY,yes,Traffic
+L0234,1005,CarrierX,yes,Weather
+L0235,1007,CarrierA,no,
+L0236,1003,CarrierA,no,
+L0237,1015,CarrierA,no,
+L0238,1009,CarrierA,yes,
+L0239,1008,CarrierB,yes,Customs
+L0240,1008,CarrierX,yes,Traffic
+L0241,1001,CarrierZ,no,
+L0242,1002,CarrierX,no,
+L0243,1003,CarrierA,yes,Warehouse delay
+L0244,1002,CarrierB,yes,Traffic
+L0245,1010,CarrierB,no,
+L0246,1012,CarrierX,no,
+L0247,1011,CarrierY,no,
+L0248,1003,CarrierX,yes,Traffic
+L0249,1004,CarrierY,no,
+L0250,1012,CarrierB,no,
+L0251,1011,CarrierZ,no,
+L0252,1004,CarrierX,yes,Mechanical
+L0253,1010,CarrierB,no,
+L0254,1003,CarrierX,no,
+L0255,1001,CarrierA,yes,Traffic
+L0256,1014,CarrierB,no,
+L0257,1004,CarrierX,yes,Customs
+L0258,1003,CarrierZ,yes,Mechanical
+L0259,1014,CarrierX,no,
+L0260,1013,CarrierA,no,
+L0261,1008,CarrierZ,yes,Warehouse delay
+L0262,1009,CarrierA,yes,Traffic
+L0263,1015,CarrierA,no,
+L0264,1003,CarrierA,yes,Traffic
+L0265,1008,CarrierA,no,
+L0266,1004,CarrierZ,yes,Customs
+L0267,1013,CarrierX,yes,Warehouse delay
+L0268,1006,CarrierB,no,
+L0269,1013,CarrierB,yes,Driver shortage
+L0270,1001,CarrierA,no,
+L0271,1009,CarrierA,yes,Mechanical
+L0272,1005,CarrierX,no,
+L0273,1015,CarrierX,yes,Weather
+L0274,1013,CarrierA,yes,Customs
+L0275,1004,CarrierY,yes,Weather
+L0276,1007,CarrierX,no,
+L0277,1004,CarrierY,no,
+L0278,1006,CarrierX,yes,Mechanical
+L0279,1009,CarrierA,no,
+L0280,1014,CarrierZ,no,
+L0281,1015,CarrierX,no,
+L0282,1002,CarrierA,yes,Customs
+L0283,1010,CarrierB,yes,Weather
+L0284,1010,CarrierX,no,
+L0285,1014,CarrierB,no,
+L0286,1015,CarrierA,no,
+L0287,1007,CarrierA,no,
+L0288,1001,CarrierY,no,
+L0289,1007,CarrierY,no,
+L0290,1001,CarrierA,no,
+L0291,1012,CarrierY,yes,Warehouse delay
+L0292,1008,CarrierZ,no,
+L0293,1001,CarrierZ,no,
+L0294,1005,CarrierZ,no,
+L0295,1014,CarrierX,yes,Customs
+L0296,1005,CarrierA,no,
+L0297,1005,CarrierA,yes,Customs
+L0298,1008,CarrierY,no,
+L0299,1012,CarrierA,no,
+L0300,1014,CarrierX,yes,Weather
+L0301,1005,CarrierB,no,
+L0302,1003,CarrierB,yes,Customs
+L0303,1004,CarrierY,yes,Customs
+L0304,1001,CarrierA,yes,Traffic
+L0305,1012,CarrierY,no,
+L0306,1006,CarrierA,no,
+L0307,1011,CarrierX,yes,Customs
+L0308,1006,CarrierA,no,
+L0309,1003,CarrierA,no,
+L0310,1006,CarrierY,no,
+L0311,1012,CarrierX,no,
+L0312,1001,CarrierA,yes,Customs
+L0313,1014,CarrierB,yes,
+L0314,1004,CarrierY,yes,Traffic
+L0315,1011,CarrierA,yes,
+L0316,1013,CarrierX,no,
+L0317,1015,CarrierY,yes,Driver shortage
+L0318,1013,CarrierX,yes,Traffic
+L0319,1010,CarrierZ,no,
+L0320,1007,CarrierA,no,
+L0321,1008,CarrierZ,yes,Mechanical
+L0322,1005,CarrierB,no,
+L0323,1010,CarrierX,yes,Driver shortage
+L0324,1011,CarrierZ,no,
+L0325,1005,CarrierX,no,
+L0326,1002,CarrierZ,no,
+L0327,1011,CarrierZ,no,
+L0328,1005,CarrierZ,yes,Customs
+L0329,1009,CarrierY,yes,
+L0330,1014,CarrierB,no,
+L0331,1011,CarrierZ,yes,Warehouse delay
+L0332,1001,CarrierA,no,
+L0333,1005,CarrierA,no,
+L0334,1007,CarrierX,yes,Traffic
+L0335,1012,CarrierY,no,
+L0336,1015,CarrierZ,no,
+L0337,1014,CarrierY,yes,Traffic
+L0338,1002,CarrierA,yes,Warehouse delay
+L0339,1005,CarrierB,yes,Warehouse delay
+L0340,1015,CarrierZ,yes,Customs
+L0341,1006,CarrierY,no,
+L0342,1007,CarrierZ,no,
+L0343,1005,CarrierB,no,
+L0344,1008,CarrierX,no,
+L0345,1001,CarrierB,yes,Mechanical
+L0346,1015,CarrierY,yes,
+L0347,1011,CarrierA,no,
+L0348,1007,CarrierX,yes,Customs
+L0349,1004,CarrierZ,no,
+L0350,1010,CarrierA,yes,Traffic
+L0351,1014,CarrierY,yes,Mechanical
+L0352,1006,CarrierY,no,
+L0353,1011,CarrierX,yes,Mechanical
+L0354,1005,CarrierY,yes,Driver shortage
+L0355,1013,CarrierY,no,
+L0356,1013,CarrierX,yes,Driver shortage
+L0357,1007,CarrierA,no,
+L0358,1007,CarrierA,no,
+L0359,1001,CarrierX,yes,Warehouse delay
+L0360,1006,CarrierX,no,
+L0361,1013,CarrierB,yes,Weather
+L0362,1011,CarrierX,yes,Customs
+L0363,1012,CarrierZ,no,
+L0364,1003,CarrierX,no,
+L0365,1009,CarrierB,no,
+L0366,1003,CarrierX,yes,Traffic
+L0367,1005,CarrierA,no,
+L0368,1007,CarrierY,no,
+L0369,1015,CarrierA,no,
+L0370,1013,CarrierY,yes,
+L0371,1007,CarrierX,yes,Customs
+L0372,1012,CarrierY,yes,Warehouse delay
+L0373,1001,CarrierB,yes,Weather
+L0374,1006,CarrierX,no,
+L0375,1015,CarrierZ,yes,Driver shortage
+L0376,1001,CarrierX,yes,Weather
+L0377,1012,CarrierX,no,
+L0378,1008,CarrierA,yes,Driver shortage
+L0379,1005,CarrierA,yes,Customs
+L0380,1012,CarrierX,no,
+L0381,1007,CarrierX,no,
+L0382,1010,CarrierB,yes,Mechanical
+L0383,1014,CarrierX,yes,Traffic
+L0384,1002,CarrierX,no,
+L0385,1004,CarrierB,yes,
+L0386,1005,CarrierB,yes,Traffic
+L0387,1012,CarrierA,no,
+L0388,1003,CarrierX,no,
+L0389,1015,CarrierY,no,
+L0390,1006,CarrierY,yes,Weather
+L0391,1011,CarrierX,yes,
+L0392,1010,CarrierA,yes,Weather
+L0393,1013,CarrierB,yes,Warehouse delay
+L0394,1012,CarrierX,no,
+L0395,1011,CarrierY,no,
+L0396,1005,CarrierZ,no,
+L0397,1001,CarrierX,yes,
+L0398,1001,CarrierZ,no,
+L0399,1013,CarrierZ,no,
+L0400,1012,CarrierX,yes,
+L0401,1013,CarrierX,yes,
+L0402,1003,CarrierY,no,
+L0403,1006,CarrierA,no,
+L0404,1015,CarrierX,no,
+L0405,1014,CarrierZ,yes,Weather
+L0406,1007,CarrierA,no,
+L0407,1005,CarrierA,no,
+L0408,1013,CarrierA,yes,Weather
+L0409,1003,CarrierX,yes,Weather
+L0410,1007,CarrierB,no,
+L0411,1013,CarrierB,no,
+L0412,1003,CarrierB,no,
+L0413,1013,CarrierZ,yes,
+L0414,1011,CarrierY,no,
+L0415,1015,CarrierA,yes,Mechanical
+L0416,1008,CarrierX,yes,Traffic
+L0417,1011,CarrierZ,yes,Warehouse delay
+L0418,1014,CarrierB,yes,Warehouse delay
+L0419,1014,CarrierZ,yes,Mechanical
+L0420,1011,CarrierY,no,
+L0421,1006,CarrierA,yes,
+L0422,1014,CarrierB,yes,Weather
+L0423,1011,CarrierY,no,
+L0424,1014,CarrierA,yes,Weather
+L0425,1013,CarrierA,no,
+L0426,1004,CarrierZ,no,
+L0427,1001,CarrierB,yes,Driver shortage
+L0428,1011,CarrierA,no,
+L0429,1014,CarrierY,yes,Mechanical
+L0430,1008,CarrierB,no,
+L0431,1002,CarrierA,no,
+L0432,1006,CarrierX,no,
+L0433,1012,CarrierX,yes,Mechanical
+L0434,1007,CarrierX,yes,
+L0435,1002,CarrierB,no,
+L0436,1015,CarrierB,yes,Warehouse delay
+L0437,1011,CarrierA,no,
+L0438,1006,CarrierX,yes,
+L0439,1008,CarrierZ,no,
+L0440,1012,CarrierZ,no,
+L0441,1002,CarrierX,yes,Weather
+L0442,1006,CarrierZ,no,
+L0443,1009,CarrierB,no,
+L0444,1012,CarrierX,yes,Customs
+L0445,1008,CarrierY,no,
+L0446,1002,CarrierZ,yes,Customs
+L0447,1002,CarrierA,yes,Mechanical
+L0448,1014,CarrierY,no,
+L0449,1002,CarrierA,yes,Warehouse delay
+L0450,1014,CarrierB,yes,
+L0451,1015,CarrierA,no,
+L0452,1011,CarrierB,yes,Mechanical
+L0453,1001,CarrierB,yes,Driver shortage
+L0454,1015,CarrierA,no,
+L0455,1015,CarrierB,yes,Warehouse delay
+L0456,1010,CarrierY,yes,Weather
+L0457,1007,CarrierB,no,
+L0458,1009,CarrierA,no,
+L0459,1010,CarrierY,no,
+L0460,1007,CarrierZ,no,
+L0461,1008,CarrierY,yes,Mechanical
+L0462,1010,CarrierB,no,
+L0463,1014,CarrierB,no,
+L0464,1012,CarrierB,yes,Customs
+L0465,1004,CarrierB,no,
+L0466,1011,CarrierZ,yes,Warehouse delay
+L0467,1011,CarrierY,no,
+L0468,1012,CarrierX,no,
+L0469,1009,CarrierA,no,
+L0470,1011,CarrierB,no,
+L0471,1015,CarrierA,yes,Driver shortage
+L0472,1002,CarrierX,no,
+L0473,1003,CarrierX,yes,Customs
+L0474,1005,CarrierY,no,
+L0475,1011,CarrierZ,yes,
+L0476,1001,CarrierZ,yes,
+L0477,1009,CarrierX,no,
+L0478,1014,CarrierA,yes,Driver shortage
+L0479,1014,CarrierB,yes,Warehouse delay
+L0480,1011,CarrierB,no,
+L0481,1004,CarrierB,no,
+L0482,1012,CarrierX,no,
+L0483,1007,CarrierA,no,
+L0484,1009,CarrierX,yes,Warehouse delay
+L0485,1005,CarrierY,no,
+L0486,1014,CarrierY,no,
+L0487,1013,CarrierB,yes,
+L0488,1012,CarrierY,no,
+L0489,1008,CarrierY,yes,Customs
+L0490,1003,CarrierB,yes,Mechanical
+L0491,1001,CarrierA,no,
+L0492,1009,CarrierZ,yes,Customs
+L0493,1010,CarrierZ,yes,Traffic
+L0494,1008,CarrierY,yes,Customs
+L0495,1015,CarrierZ,yes,
+L0496,1015,CarrierB,no,
+L0497,1008,CarrierB,no,
+L0498,1002,CarrierZ,yes,Customs
+L0499,1009,CarrierX,yes,Mechanical
+L0500,1009,CarrierB,no,
+L0501,1002,CarrierZ,yes,Customs
+L0502,1011,CarrierZ,no,
+L0503,1006,CarrierZ,yes,
+L0504,1010,CarrierB,no,
+L0505,1009,CarrierX,yes,Warehouse delay
+L0506,1006,CarrierA,yes,Warehouse delay
+L0507,1010,CarrierB,yes,Weather
+L0508,1011,CarrierZ,no,
+L0509,1015,CarrierX,no,
+L0510,1005,CarrierB,no,
+L0511,1001,CarrierB,no,
+L0512,1009,CarrierB,no,
+L0513,1008,CarrierX,no,
+L0514,1015,CarrierY,no,
+L0515,1009,CarrierX,yes,Customs
+L0516,1013,CarrierB,yes,Warehouse delay
+L0517,1002,CarrierY,yes,
+L0518,1011,CarrierA,yes,Customs
+L0519,1009,CarrierA,yes,Warehouse delay
+L0520,1011,CarrierY,yes,Mechanical
+L0521,1012,CarrierZ,yes,Weather
+L0522,1002,CarrierX,yes,
+L0523,1005,CarrierB,yes,Driver shortage
+L0524,1014,CarrierY,no,
+L0525,1007,CarrierA,no,
+L0526,1011,CarrierA,no,
+L0527,1006,CarrierX,no,
+L0528,1011,CarrierX,yes,Warehouse delay
+L0529,1012,CarrierB,yes,
+L0530,1012,CarrierB,yes,Warehouse delay
+L0531,1014,CarrierX,no,
+L0532,1015,CarrierB,yes,Traffic
+L0533,1013,CarrierZ,yes,Traffic
+L0534,1013,CarrierA,no,
+L0535,1007,CarrierX,no,
+L0536,1003,CarrierB,yes,Customs
+L0537,1012,CarrierA,no,
+L0538,1011,CarrierY,no,
+L0539,1011,CarrierZ,yes,Driver shortage
+L0540,1014,CarrierB,yes,Weather
+L0541,1001,CarrierX,no,
+L0542,1009,CarrierB,yes,Traffic
+L0543,1004,CarrierZ,yes,Mechanical
+L0544,1015,CarrierB,yes,Customs
+L0545,1003,CarrierY,no,
+L0546,1004,CarrierX,yes,Warehouse delay
+L0547,1013,CarrierB,yes,
+L0548,1013,CarrierB,no,
+L0549,1011,CarrierB,yes,Traffic
+L0550,1011,CarrierX,no,
+L0551,1002,CarrierY,no,
+L0552,1006,CarrierZ,yes,Warehouse delay
+L0553,1011,CarrierY,yes,Traffic
+L0554,1010,CarrierX,yes,Traffic
+L0555,1008,CarrierA,no,
+L0556,1010,CarrierZ,yes,Driver shortage
+L0557,1010,CarrierZ,no,
+L0558,1007,CarrierY,yes,Traffic
+L0559,1004,CarrierY,no,
+L0560,1005,CarrierZ,yes,Warehouse delay
+L0561,1012,CarrierZ,no,
+L0562,1008,CarrierA,no,
+L0563,1013,CarrierZ,no,
+L0564,1009,CarrierX,yes,Warehouse delay
+L0565,1010,CarrierX,no,
+L0566,1014,CarrierY,yes,Traffic
+L0567,1012,CarrierX,yes,Weather
+L0568,1014,CarrierB,yes,
+L0569,1010,CarrierB,no,
+L0570,1013,CarrierB,yes,Weather
+L0571,1009,CarrierZ,no,
+L0572,1011,CarrierY,no,
+L0573,1007,CarrierY,no,
+L0574,1003,CarrierA,yes,Mechanical
+L0575,1006,CarrierB,yes,Warehouse delay
+L0576,1004,CarrierB,yes,
+L0577,1009,CarrierY,no,
+L0578,1003,CarrierY,yes,Warehouse delay
+L0579,1012,CarrierA,no,
+L0580,1001,CarrierY,no,
+L0581,1004,CarrierX,no,
+L0582,1006,CarrierY,yes,Warehouse delay
+L0583,1004,CarrierB,no,
+L0584,1007,CarrierA,no,
+L0585,1015,CarrierX,yes,Warehouse delay
+L0586,1006,CarrierX,no,
+L0587,1014,CarrierZ,yes,Mechanical
+L0588,1011,CarrierA,no,
+L0589,1010,CarrierX,no,
+L0590,1007,CarrierY,no,
+L0591,1006,CarrierZ,no,
+L0592,1013,CarrierA,yes,Driver shortage
+L0593,1015,CarrierY,no,
+L0594,1003,CarrierY,yes,Driver shortage
+L0595,1011,CarrierZ,yes,Customs
+L0596,1003,CarrierY,no,
+L0597,1010,CarrierX,yes,Mechanical
+L0598,1013,CarrierZ,yes,Mechanical
+L0599,1011,CarrierA,no,
+L0600,1004,CarrierB,yes,Warehouse delay
+L0601,1014,CarrierA,yes,Customs
+L0602,1001,CarrierY,yes,Customs
+L0603,1011,CarrierB,yes,Driver shortage
+L0604,1003,CarrierX,yes,Traffic
+L0605,1015,CarrierY,no,
+L0606,1010,CarrierB,yes,Warehouse delay
+L0607,1012,CarrierZ,yes,Customs
+L0608,1008,CarrierB,no,
+L0609,1014,CarrierA,yes,Customs
+L0610,1014,CarrierA,yes,
+L0611,1010,CarrierY,no,
+L0612,1003,CarrierZ,no,
+L0613,1010,CarrierB,yes,Customs
+L0614,1007,CarrierA,yes,Weather
+L0615,1001,CarrierY,no,
+L0616,1014,CarrierY,yes,Customs
+L0617,1008,CarrierB,yes,
+L0618,1009,CarrierB,yes,Weather
+L0619,1008,CarrierY,yes,
+L0620,1011,CarrierA,no,
+L0621,1006,CarrierX,no,
+L0622,1004,CarrierA,no,
+L0623,1006,CarrierB,yes,Mechanical
+L0624,1003,CarrierZ,no,
+L0625,1013,CarrierY,yes,Traffic
+L0626,1010,CarrierB,no,
+L0627,1005,CarrierY,yes,Warehouse delay
+L0628,1012,CarrierX,yes,Driver shortage
+L0629,1001,CarrierA,yes,Warehouse delay
+L0630,1013,CarrierZ,no,
+L0631,1006,CarrierX,yes,Mechanical
+L0632,1011,CarrierB,no,
+L0633,1005,CarrierB,no,
+L0634,1010,CarrierZ,no,
+L0635,1011,CarrierA,yes,Mechanical
+L0636,1009,CarrierB,no,
+L0637,1003,CarrierZ,no,
+L0638,1005,CarrierZ,no,
+L0639,1013,CarrierA,yes,
+L0640,1014,CarrierX,yes,Mechanical
+L0641,1013,CarrierY,yes,Customs
+L0642,1009,CarrierA,no,
+L0643,1013,CarrierB,yes,Customs
+L0644,1007,CarrierX,yes,
+L0645,1003,CarrierA,no,
+L0646,1002,CarrierX,no,
+L0647,1004,CarrierZ,yes,Driver shortage
+L0648,1001,CarrierA,no,
+L0649,1010,CarrierB,no,
+L0650,1012,CarrierB,yes,
+L0651,1014,CarrierY,no,
+L0652,1008,CarrierX,yes,
+L0653,1011,CarrierB,no,
+L0654,1004,CarrierX,yes,Driver shortage
+L0655,1003,CarrierX,no,
+L0656,1004,CarrierX,yes,Weather
+L0657,1005,CarrierA,no,
+L0658,1011,CarrierA,no,
+L0659,1010,CarrierY,yes,Warehouse delay
+L0660,1012,CarrierX,yes,Driver shortage
+L0661,1005,CarrierB,no,
+L0662,1006,CarrierZ,yes,Driver shortage
+L0663,1004,CarrierA,no,
+L0664,1010,CarrierX,no,
+L0665,1003,CarrierA,yes,Driver shortage
+L0666,1002,CarrierB,no,
+L0667,1006,CarrierX,no,
+L0668,1015,CarrierB,no,
+L0669,1012,CarrierA,no,
+L0670,1010,CarrierA,yes,
+L0671,1006,CarrierA,no,
+L0672,1015,CarrierB,yes,Mechanical
+L0673,1002,CarrierZ,yes,Mechanical
+L0674,1011,CarrierY,yes,
+L0675,1006,CarrierA,no,
+L0676,1009,CarrierB,yes,Warehouse delay
+L0677,1014,CarrierZ,yes,Traffic
+L0678,1002,CarrierA,no,
+L0679,1002,CarrierB,yes,Mechanical
+L0680,1006,CarrierZ,yes,Driver shortage
+L0681,1005,CarrierY,yes,Mechanical
+L0682,1012,CarrierY,yes,Warehouse delay
+L0683,1004,CarrierZ,yes,Customs
+L0684,1004,CarrierY,no,
+L0685,1003,CarrierX,yes,Weather
+L0686,1011,CarrierA,yes,
+L0687,1014,CarrierB,yes,
+L0688,1008,CarrierZ,no,
+L0689,1008,CarrierB,no,
+L0690,1008,CarrierY,no,
+L0691,1007,CarrierY,yes,Weather
+L0692,1009,CarrierA,no,
+L0693,1009,CarrierX,no,
+L0694,1007,CarrierY,no,
+L0695,1002,CarrierB,no,
+L0696,1006,CarrierX,yes,Warehouse delay
+L0697,1004,CarrierA,yes,Traffic
+L0698,1006,CarrierB,no,
+L0699,1003,CarrierB,no,
+L0700,1004,CarrierZ,no,
+L0701,1010,CarrierZ,no,
+L0702,1003,CarrierA,no,
+L0703,1004,CarrierA,no,
+L0704,1006,CarrierA,no,
+L0705,1008,CarrierY,yes,Driver shortage
+L0706,1011,CarrierY,yes,Warehouse delay
+L0707,1005,CarrierY,no,
+L0708,1014,CarrierA,yes,Customs
+L0709,1013,CarrierY,no,
+L0710,1013,CarrierX,yes,Mechanical
+L0711,1008,CarrierY,no,
+L0712,1013,CarrierA,no,
+L0713,1005,CarrierB,yes,Mechanical
+L0714,1002,CarrierY,yes,Customs
+L0715,1014,CarrierZ,no,
+L0716,1014,CarrierX,no,
+L0717,1012,CarrierZ,no,
+L0718,1006,CarrierZ,no,
+L0719,1006,CarrierX,no,
+L0720,1002,CarrierZ,yes,Driver shortage
+L0721,1010,CarrierB,yes,
+L0722,1005,CarrierZ,no,
+L0723,1011,CarrierB,no,
+L0724,1013,CarrierA,yes,Mechanical
+L0725,1010,CarrierZ,no,
+L0726,1011,CarrierY,yes,Warehouse delay
+L0727,1013,CarrierZ,no,
+L0728,1011,CarrierB,no,
+L0729,1014,CarrierX,yes,Customs
+L0730,1006,CarrierY,no,
+L0731,1006,CarrierZ,no,
+L0732,1010,CarrierA,no,
+L0733,1015,CarrierA,no,
+L0734,1012,CarrierB,no,
+L0735,1007,CarrierY,yes,
+L0736,1001,CarrierY,yes,Warehouse delay
+L0737,1005,CarrierX,yes,Customs
+L0738,1007,CarrierX,yes,Weather
+L0739,1015,CarrierA,yes,Weather
+L0740,1013,CarrierA,yes,Weather
+L0741,1005,CarrierB,yes,Weather
+L0742,1011,CarrierA,no,
+L0743,1004,CarrierY,no,
+L0744,1008,CarrierY,yes,Driver shortage
+L0745,1014,CarrierY,yes,Weather
+L0746,1011,CarrierZ,no,
+L0747,1014,CarrierA,no,
+L0748,1014,CarrierB,no,
+L0749,1009,CarrierA,yes,Warehouse delay
+L0750,1009,CarrierY,no,
+L0751,1011,CarrierB,no,
+L0752,1009,CarrierB,no,
+L0753,1015,CarrierZ,no,
+L0754,1009,CarrierY,yes,Mechanical
+L0755,1005,CarrierZ,no,
+L0756,1005,CarrierY,no,
+L0757,1001,CarrierX,yes,Traffic
+L0758,1005,CarrierA,yes,Warehouse delay
+L0759,1015,CarrierA,no,
+L0760,1005,CarrierX,no,
+L0761,1013,CarrierZ,yes,
+L0762,1001,CarrierB,no,
+L0763,1004,CarrierA,no,
+L0764,1007,CarrierY,yes,Warehouse delay
+L0765,1012,CarrierA,no,
+L0766,1004,CarrierZ,yes,Mechanical
+L0767,1011,CarrierY,no,
+L0768,1005,CarrierB,no,
+L0769,1007,CarrierY,yes,Customs
+L0770,1003,CarrierZ,yes,Warehouse delay
+L0771,1008,CarrierB,no,
+L0772,1005,CarrierB,no,
+L0773,1004,CarrierZ,yes,Customs
+L0774,1001,CarrierB,yes,Customs
+L0775,1002,CarrierZ,no,
+L0776,1003,CarrierA,yes,Customs
+L0777,1002,CarrierY,yes,Mechanical
+L0778,1004,CarrierZ,no,
+L0779,1005,CarrierA,no,
+L0780,1008,CarrierX,no,
+L0781,1002,CarrierY,yes,Traffic
+L0782,1013,CarrierA,yes,Driver shortage
+L0783,1008,CarrierY,yes,
+L0784,1005,CarrierA,yes,Weather
+L0785,1013,CarrierY,no,
+L0786,1013,CarrierA,yes,Warehouse delay
+L0787,1001,CarrierY,no,
+L0788,1012,CarrierX,yes,Mechanical
+L0789,1007,CarrierZ,no,
+L0790,1003,CarrierX,yes,Traffic
+L0791,1008,CarrierZ,yes,Traffic
+L0792,1015,CarrierX,yes,Weather
+L0793,1004,CarrierA,no,
+L0794,1001,CarrierY,no,
+L0795,1010,CarrierX,no,
+L0796,1013,CarrierY,yes,Weather
+L0797,1010,CarrierA,yes,Traffic
+L0798,1013,CarrierX,yes,Customs
+L0799,1008,CarrierX,no,
+L0800,1015,CarrierX,yes,Traffic
+L0801,1011,CarrierY,yes,Customs
+L0802,1008,CarrierY,no,
+L0803,1009,CarrierZ,no,
+L0804,1012,CarrierY,yes,Warehouse delay
+L0805,1007,CarrierZ,yes,Traffic
+L0806,1015,CarrierX,no,
+L0807,1012,CarrierA,no,
+L0808,1009,CarrierA,yes,Driver shortage
+L0809,1003,CarrierB,no,
+L0810,1006,CarrierA,no,
+L0811,1014,CarrierB,yes,Weather
+L0812,1009,CarrierY,no,
+L0813,1005,CarrierZ,no,
+L0814,1008,CarrierX,no,
+L0815,1012,CarrierY,yes,Driver shortage
+L0816,1014,CarrierZ,yes,Traffic
+L0817,1012,CarrierX,no,
+L0818,1004,CarrierB,no,
+L0819,1013,CarrierB,yes,Driver shortage
+L0820,1005,CarrierZ,no,
+L0821,1011,CarrierZ,yes,Weather
+L0822,1009,CarrierX,yes,
+L0823,1003,CarrierY,yes,Customs
+L0824,1002,CarrierA,yes,Weather
+L0825,1001,CarrierB,no,
+L0826,1011,CarrierA,no,
+L0827,1001,CarrierZ,yes,Driver shortage
+L0828,1012,CarrierX,yes,Customs
+L0829,1011,CarrierA,yes,Mechanical
+L0830,1013,CarrierX,no,
+L0831,1009,CarrierA,no,
+L0832,1013,CarrierX,no,
+L0833,1009,CarrierX,yes,
+L0834,1005,CarrierX,yes,Driver shortage
+L0835,1002,CarrierX,yes,Driver shortage
+L0836,1007,CarrierY,yes,Driver shortage
+L0837,1011,CarrierY,yes,Driver shortage
+L0838,1012,CarrierB,no,
+L0839,1012,CarrierX,no,
+L0840,1011,CarrierA,no,
+L0841,1015,CarrierX,yes,
+L0842,1003,CarrierB,no,
+L0843,1009,CarrierZ,yes,Driver shortage
+L0844,1010,CarrierA,no,
+L0845,1015,CarrierZ,no,
+L0846,1014,CarrierZ,no,
+L0847,1013,CarrierA,no,
+L0848,1010,CarrierY,yes,Mechanical
+L0849,1013,CarrierB,no,
+L0850,1006,CarrierA,no,
+L0851,1007,CarrierX,yes,Traffic
+L0852,1010,CarrierX,yes,Traffic
+L0853,1001,CarrierZ,yes,Customs
+L0854,1014,CarrierZ,yes,
+L0855,1014,CarrierZ,yes,Weather
+L0856,1001,CarrierA,no,
+L0857,1003,CarrierY,no,
+L0858,1006,CarrierB,yes,Customs
+L0859,1005,CarrierZ,yes,Driver shortage
+L0860,1007,CarrierB,yes,Warehouse delay
+L0861,1002,CarrierZ,no,
+L0862,1003,CarrierA,yes,Driver shortage
+L0863,1011,CarrierZ,yes,Warehouse delay
+L0864,1013,CarrierB,no,
+L0865,1002,CarrierX,no,
+L0866,1006,CarrierA,no,
+L0867,1015,CarrierX,yes,Warehouse delay
+L0868,1011,CarrierB,yes,Warehouse delay
+L0869,1013,CarrierA,yes,Traffic
+L0870,1009,CarrierX,no,
+L0871,1009,CarrierB,yes,Traffic
+L0872,1009,CarrierY,yes,Weather
+L0873,1011,CarrierA,no,
+L0874,1013,CarrierB,yes,Customs
+L0875,1007,CarrierZ,no,
+L0876,1003,CarrierY,no,
+L0877,1002,CarrierA,yes,Driver shortage
+L0878,1007,CarrierZ,yes,Mechanical
+L0879,1009,CarrierA,yes,
+L0880,1003,CarrierA,yes,Mechanical
+L0881,1007,CarrierB,yes,Driver shortage
+L0882,1010,CarrierB,yes,Customs
+L0883,1002,CarrierZ,no,
+L0884,1006,CarrierB,yes,Weather
+L0885,1011,CarrierA,no,
+L0886,1006,CarrierZ,yes,Traffic
+L0887,1006,CarrierB,yes,
+L0888,1005,CarrierY,no,
+L0889,1010,CarrierA,yes,Mechanical
+L0890,1001,CarrierY,yes,Warehouse delay
+L0891,1006,CarrierY,yes,Weather
+L0892,1012,CarrierX,yes,Driver shortage
+L0893,1015,CarrierY,no,
+L0894,1001,CarrierZ,yes,Traffic
+L0895,1008,CarrierA,yes,Traffic
+L0896,1004,CarrierB,yes,Customs
+L0897,1009,CarrierB,no,
+L0898,1009,CarrierA,yes,Warehouse delay
+L0899,1012,CarrierX,no,
+L0900,1010,CarrierB,yes,Traffic
+L0901,1003,CarrierX,no,
+L0902,1004,CarrierB,no,
+L0903,1001,CarrierA,yes,Weather
+L0904,1007,CarrierZ,no,
+L0905,1014,CarrierX,yes,Traffic
+L0906,1014,CarrierA,yes,Mechanical
+L0907,1009,CarrierX,no,
+L0908,1008,CarrierB,yes,Customs
+L0909,1004,CarrierB,no,
+L0910,1009,CarrierX,yes,Customs
+L0911,1015,CarrierB,no,
+L0912,1006,CarrierA,no,
+L0913,1012,CarrierY,yes,Traffic
+L0914,1011,CarrierZ,no,
+L0915,1011,CarrierZ,yes,Driver shortage
+L0916,1005,CarrierX,no,
+L0917,1015,CarrierA,yes,Driver shortage
+L0918,1005,CarrierY,yes,Traffic
+L0919,1015,CarrierA,yes,Weather
+L0920,1012,CarrierA,yes,Mechanical
+L0921,1004,CarrierB,yes,Mechanical
+L0922,1005,CarrierB,no,
+L0923,1008,CarrierB,yes,Customs
+L0924,1011,CarrierY,yes,
+L0925,1003,CarrierZ,yes,Mechanical
+L0926,1015,CarrierY,yes,Traffic
+L0927,1002,CarrierB,yes,Customs
+L0928,1006,CarrierY,yes,
+L0929,1006,CarrierA,no,
+L0930,1005,CarrierA,no,
+L0931,1003,CarrierY,yes,Customs
+L0932,1003,CarrierX,no,
+L0933,1010,CarrierB,yes,Driver shortage
+L0934,1004,CarrierY,yes,Traffic
+L0935,1002,CarrierA,yes,Driver shortage
+L0936,1014,CarrierB,no,
+L0937,1012,CarrierZ,yes,
+L0938,1007,CarrierA,no,
+L0939,1003,CarrierY,yes,Customs
+L0940,1001,CarrierA,yes,Traffic
+L0941,1007,CarrierY,yes,
+L0942,1004,CarrierX,yes,Mechanical
+L0943,1014,CarrierB,no,
+L0944,1012,CarrierZ,no,
+L0945,1015,CarrierY,no,
+L0946,1007,CarrierX,no,
+L0947,1012,CarrierZ,no,
+L0948,1010,CarrierB,yes,Driver shortage
+L0949,1002,CarrierA,no,
+L0950,1014,CarrierX,yes,Driver shortage
+L0951,1009,CarrierA,yes,Driver shortage
+L0952,1007,CarrierB,yes,Customs
+L0953,1005,CarrierA,no,
+L0954,1015,CarrierZ,no,
+L0955,1008,CarrierY,no,
+L0956,1005,CarrierB,yes,Warehouse delay
+L0957,1009,CarrierY,no,
+L0958,1014,CarrierA,yes,Warehouse delay
+L0959,1009,CarrierX,yes,
+L0960,1010,CarrierB,yes,Mechanical
+L0961,1007,CarrierZ,no,
+L0962,1001,CarrierY,no,
+L0963,1010,CarrierY,no,
+L0964,1002,CarrierZ,no,
+L0965,1012,CarrierY,yes,Weather
+L0966,1002,CarrierA,no,
+L0967,1002,CarrierB,no,
+L0968,1012,CarrierB,yes,Mechanical
+L0969,1009,CarrierA,yes,
+L0970,1003,CarrierZ,yes,Customs
+L0971,1014,CarrierY,yes,
+L0972,1012,CarrierX,no,
+L0973,1005,CarrierZ,no,
+L0974,1005,CarrierY,yes,Customs
+L0975,1004,CarrierX,no,
+L0976,1001,CarrierA,no,
+L0977,1014,CarrierA,yes,Driver shortage
+L0978,1015,CarrierA,yes,Customs
+L0979,1010,CarrierA,no,
+L0980,1007,CarrierA,yes,Driver shortage
+L0981,1010,CarrierX,yes,Driver shortage
+L0982,1005,CarrierB,yes,Weather
+L0983,1003,CarrierY,yes,Warehouse delay
+L0984,1006,CarrierX,yes,
+L0985,1001,CarrierB,no,
+L0986,1006,CarrierX,yes,Weather
+L0987,1007,CarrierY,yes,Warehouse delay
+L0988,1005,CarrierB,yes,Mechanical
+L0989,1012,CarrierB,no,
+L0990,1015,CarrierX,yes,
+L0991,1005,CarrierZ,no,
+L0992,1015,CarrierA,yes,
+L0993,1007,CarrierB,yes,Traffic
+L0994,1008,CarrierY,yes,Warehouse delay
+L0995,1014,CarrierZ,no,
+L0996,1009,CarrierA,yes,Warehouse delay
+L0997,1004,CarrierB,yes,Weather
+L0998,1010,CarrierB,yes,Mechanical
+L0999,1012,CarrierB,no,
+L1000,1007,CarrierB,no,
